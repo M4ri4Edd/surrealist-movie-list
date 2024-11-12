@@ -13,7 +13,7 @@ const Work = () => {
   const ScienceFiction = [
     {
       image: FantasticPlanet,
-      title: "La Planète sauvage",
+      title: "La Planète Sauvage",
       dirYear:"René Laloux - 1973",
       text: "Os Oms são criaturas humanas escravizadas no planeta Ygam. Lá, são tratados como brinquedos dos habitantes nativos azuis gigantes, os Draags.",
     },    
