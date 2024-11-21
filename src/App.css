@@ -164,13 +164,17 @@ nav {
   font-size: 1.1rem;
   cursor: pointer;
   font-weight: 600;
-  color: white;
   transition: 0.2s;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
   transition-duration: 0.2s;
+  color: white;
+}
+
+a, a:visited{
+  text-decoration: none;
 }
 
 .secondary-button:hover {
