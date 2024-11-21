@@ -24,9 +24,15 @@ const About = () => {
           Dentre as categorias observadas, são inclusas <span className="underline">Realismo mágico, Surrealismo Figurativo e Surrealismo Abstrato.</span>
         </p>
         <div className="about-buttons-container">
-          <button className="secondary-button">Realismo Mágico</button>
+          <a href="https://www.todamateria.com.br/realismo-magico/" target="_blank" rel="noopener noreferrer">
+            <button className="secondary-button">Realizmo Mágico</button>
+          </a>
+          <a href="https://www.todamateria.com.br/arte-figurativa/" target="_blank" rel="noopener noreferrer">
           <button className="secondary-button">Surrealismo Figurativo</button>
+          </a>
+          <a href="https://www.todamateria.com.br/abstracionismo/" target="_blank" rel="noopener noreferrer">
           <button className="secondary-button">Surrealismo Abstrato</button>
+          </a>
         </div>
       </div>
     </div>
